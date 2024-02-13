@@ -3,7 +3,7 @@ h1{text-align:center;font-style:bold,}
 p2{font-style:bold;border-style: solid; border-color:darkblue;}
 body {
   padding: 25px;
-  background-color: rgb(93, 252, 252);
+  background-color:#ADD8E6;
   color: black;
   font-size: 25pt;
   font-style: bold;
@@ -247,7 +247,3 @@ button {
       element.nextElementSibling.style.color = 'red'
       element.nextElementSibling.style.display = 'block'
       element.previousElementSibling.style.color = 'red'
-
-a{
-  text-decoration
-}
